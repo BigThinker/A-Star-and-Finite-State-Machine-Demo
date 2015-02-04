@@ -1,4 +1,4 @@
-FSMShortestPath
+A Star and Finite State Machine Demo
 ===============
 
 ActionScript project in FlashDevelop to demonstrate finite state machines and A Star algorithm.
