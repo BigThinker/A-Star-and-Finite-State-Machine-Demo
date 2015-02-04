@@ -1,0 +1,13 @@
+<level width="800" height="600">
+  <Nodes>
+    <Node id="1" x="320" y="224" />
+    <Node id="2" x="608" y="128" />
+    <Node id="3" x="544" y="352" />
+    <Node id="4" x="224" y="512" />
+    <Node id="5" x="96" y="448" />
+    <Node id="6" x="448" y="96" />
+    <Node id="7" x="672" y="512" />
+    <Node id="0" x="96" y="224" />
+    <Node id="8" x="704" y="288" />
+  </Nodes>
+</level>
