@@ -2,6 +2,8 @@ A Star and Finite State Machine Demo
 ===============
 
 ActionScript project in FlashDevelop to demonstrate finite state machines and A Star algorithm.
+You can clone / download the project and run it via FlashDevelop.
+See the demo here: http://www.fastswf.com/UUhQugE
 
 This AI project demonstrates finite state machines and finding (shortest) path functionality. 
 Connections between nodes are created randomly. Nodes have different (random) purposes for the player (agent) to 
